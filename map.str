@@ -2,10 +2,6 @@ TooltipUSAUpgradeSupplyLines
 "Chinooks, Oil Derricks, and Supply Drop Zones bring in an additional 10% income"
 END
 
-Repairs_buildings_but_cannot_construct_any_new_ones
-"Repairs buildings but cannot construct any new ones."
-END
-
 USA_Supply_Truck
 "Supply Tru&ck"
 END
@@ -16,6 +12,18 @@ END
 
 Airfield_Combat_Chinook
 "Comb&at Chinook"
+END
+
+Toxin_Crop_Duster
+"To&xin Crop Duster"
+END
+
+Toxin_Crop_Duster_ToolTip
+"Clears buildings of enemy soldiers. Contaminates terrain \n Strong vs. infantry \n Weak vs. tanks, aircraft, base defenses"
+END
+
+Human_Cannonball_Cannon
+"Human Cannonbal&l Cannon"
 END
 
 Snowman_Disguise
