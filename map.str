@@ -1,39 +1,39 @@
-TooltipUSAUpgradeSupplyLines
-"Chinooks, Oil Derricks, and Supply Drop Zones bring in an additional 10% income"
+New_ConstructGattlingCannon
+"Gattling Cannon (&G)"
 END
 
-USA_Supply_Truck
-"Supply Tru&ck"
+New_Lazr_ToolTipBuildCrusader
+"Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry \n \n Power Required: 1"
 END
 
-Airfield_Chinook
-"Chi&nook"
+New_ConstructLaserPaladin
+"Laser Paladin (&P)"
 END
 
-Airfield_Combat_Chinook
-"Comb&at Chinook"
+New_ToolTipBuildLaserPaladin
+"Uses a laser to destroy missiles and enemy infantry. \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft \n \n Power Required: 1"
 END
 
-Toxin_Crop_Duster
-"To&xin Crop Duster"
+New_ConstructNuclearBattlemaster
+"Nuclear Battlemaster (&B)"
 END
 
-Toxin_Crop_Duster_ToolTip
-"Clears buildings of enemy soldiers. Contaminates terrain \n Strong vs. infantry \n Weak vs. tanks, aircraft, base defenses"
+New_ConstructInfantrySniper
+"Sniper (&P)"
 END
 
-Human_Cannonball_Cannon
-"Human Cannonbal&l Cannon"
+New_UpgradeCompositeArmor
+"Composite Armor (&P)"
 END
 
-Snowman_Disguise
-"Snowma&n Disguise"
+New_TooltipUpgradeCompositeArmor
+"+40% Crusader health. (480 » 680) \n +20% Paladin health. (500 » 600) \n +33% Avenger health. (300 » 400) \n +20% Microwave Tank health. (480 » 580)"
 END
 
-Jump_Jet_Ranger
-"Jump Jet Ran&ger"
+New_UpgradeWGUraniumShells
+"Weapons Grade Uranium Shells (&A)"
 END
 
-Jump_Jet_Missile_Defender
-"Jump Jet &Missile Defender"
+New_TooltipUpgradeWGUraniumShells
+"Battlemaster and Overlord shells carry a small amount of Radiation allowing them to kill infantry and clear Anthrax & Radiation."
 END
