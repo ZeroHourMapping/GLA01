@@ -27,7 +27,7 @@ New_UpgradeCompositeArmor
 END
 
 New_TooltipUpgradeCompositeArmor
-"+40% Crusader health. (480 » 680) \n +20% Paladin health. (500 » 600) \n +33% Avenger health. (300 » 400) \n +20% Microwave Tank health. (480 » 580)"
+"+42% Crusader health. (480 » 680) \n +20% Paladin health. (500 » 600) \n +21% Microwave Tank health. (480 » 580)"
 END
 
 New_UpgradeWGUraniumShells
